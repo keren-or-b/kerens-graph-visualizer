@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Loremipsumdolorsit",
+    "ip": "192.168.1.2",
+    "severity": "Critical"
+  },
+  {
+    "name": "Loremipsumdolorsit002",
+    "ip": "192.168.1.1",
+    "severity": "High"
+  },
+  {
+    "name": "Loremipsumdolorsit003",
+    "ip": "192.168.1.3",
+    "severity": "Critical"
+  },
+  {
+    "name": "Loremipsumdolorsit004",
+    "ip": "192.168.1.4",
+    "severity": "Low"
+  }
+]
